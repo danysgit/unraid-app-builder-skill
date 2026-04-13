@@ -29,7 +29,7 @@ Read [references/unraid-packaging.md](references/unraid-packaging.md) before wri
 
 Publish only one manual-install template in the repo:
 
-- Path: `unraid/manual/my-<AppName>.xml`
+- Path: `templates/my-<AppName>.xml`
 - Use that file as the install link in docs.
 - Point `<TemplateURL>` back to the same `my-...xml` URL.
 

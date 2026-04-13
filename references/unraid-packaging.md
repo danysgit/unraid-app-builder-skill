@@ -15,7 +15,7 @@ Package the app so it feels native in Unraid:
 
 For manual repo installs, publish one template only:
 
-- `unraid/manual/my-<AppName>.xml`
+- `templates/my-<AppName>.xml`
 
 Why:
 

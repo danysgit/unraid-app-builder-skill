@@ -1,12 +1,14 @@
 # Unraid App Builder for Codex
 
 <p align="center">
-  <img src="./assets/unraid-logo.svg" alt="Unraid" width="120" />
+  <img src="./assets/unraid-logo.jpg" alt="Unraid" width="120" />
   &nbsp;&nbsp;&nbsp;
-  <img src="./assets/codex-logo.svg" alt="Codex" width="120" />
+  <img src="./assets/codex-logo.png" alt="Codex" width="120" />
 </p>
 
 `unraid-app-builder` is a Codex skill for packaging self-hosted apps for Unraid with better first-pass results.
+
+This repo now stands on its own, so generated Unraid templates should live under `templates/` in this repository.
 
 It helps Codex produce:
 
@@ -53,6 +55,7 @@ Example prompts:
 
 - [SKILL.md](./SKILL.md): main skill instructions
 - [agents/openai.yaml](./agents/openai.yaml): Codex UI metadata
+- [templates/](./templates): canonical location for generated `my-...xml` Unraid templates
 - [references/unraid-packaging.md](./references/unraid-packaging.md): Unraid-specific guidance and validation notes
 
 ## License
