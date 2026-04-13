@@ -8,8 +8,6 @@
 
 `unraid-app-builder` is a Codex skill for packaging self-hosted apps for Unraid with better first-pass results.
 
-This repo now stands on its own, so generated Unraid templates should live under `templates/` in this repository.
-
 It helps Codex produce:
 
 - Unraid-friendly Docker images
@@ -22,7 +20,7 @@ It helps Codex produce:
 
 - use `/config` as the persistent appdata root
 - support `PUID`, `PGID`, and `UMASK` when the app writes files
-- expose the right-click Unraid WebUI action correctly
+- expose the Unraid container action menu and WebUI link correctly
 - include stable icon, support, project, registry, and template links
 - avoid dockerMan base-template mismatches by favoring a single canonical `my-...xml` path
 - validate real Unraid installs, edits, and updates before shipping

@@ -5,7 +5,7 @@
 Package the app so it feels native in Unraid:
 
 - recognizable icon
-- working WebUI shortcut from the Docker context menu
+- working WebUI shortcut from the container action menu
 - support and project links
 - editable host port
 - editable appdata path

@@ -49,7 +49,7 @@ Include these top-level fields:
 - `<TemplateURL>`
 - `<Icon>`
 
-For the right-click Docker menu and app presentation:
+For the container action menu and app presentation:
 
 - Set `<WebUI>` to `http://[IP]:[PORT:3000]/` or the equivalent internal app port.
 - Set `<Icon>` to a stable raw asset URL.
@@ -101,7 +101,7 @@ Minimum validation:
 - choose a non-default appdata path
 - confirm the Docker list shows the expected host IP and port
 - confirm the container uses the chosen appdata path
-- confirm the context menu exposes WebUI and support/project links
+- confirm the container action menu exposes WebUI and support/project links
 - reopen the edit/update screen and verify the chosen port and path still appear
 - pull a newer image or simulate an update and verify the settings persist
 
