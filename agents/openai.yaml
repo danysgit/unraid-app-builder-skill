@@ -1,0 +1,7 @@
+interface:
+  display_name: "Unraid App Builder"
+  short_description: "Package apps for Unraid cleanly."
+  default_prompt: "Use $unraid-app-builder to package this app for Unraid with a robust Docker image, a canonical my-template XML, and validation that port and appdata settings persist."
+
+policy:
+  allow_implicit_invocation: true

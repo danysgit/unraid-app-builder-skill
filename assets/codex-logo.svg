@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Codex logo">
+  <rect width="512" height="512" rx="76" fill="#ffffff"/>
+  <defs>
+    <linearGradient id="cloud" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#a7a5ff"/>
+      <stop offset="100%" stop-color="#4354ff"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#cloud)" d="M370 138c-18-49-65-82-118-82-61 0-113 43-124 102-46 12-80 54-80 103 0 58 47 105 105 105h213c54 0 98-44 98-98 0-38-22-72-54-88 3-12 4-19 4-24 0-9-1-12-2-18-4 0-21 0-42 0z"/>
+  <path d="M171 202c7-11 22-14 33-7 11 7 14 22 7 33l-34 52 34 52c7 11 4 26-7 33-11 7-26 4-33-7l-49-74a24 24 0 0 1 0-26l49-74zM260 352a24 24 0 1 1 0-48h81a24 24 0 1 1 0 48h-81z" fill="#ffffff"/>
+</svg>
