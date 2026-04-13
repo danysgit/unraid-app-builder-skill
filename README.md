@@ -1,7 +1,7 @@
 # Unraid App Builder for Codex
 
 <p align="center">
-  <img src="./assets/unraid-logo.jpg" alt="Unraid" width="120" />
+  <img src="./assets/unraid-logo.png" alt="Unraid" width="120" />
   &nbsp;&nbsp;&nbsp;
   <img src="./assets/codex-logo.png" alt="Codex" width="120" />
 </p>
